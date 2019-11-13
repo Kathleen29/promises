@@ -19,8 +19,10 @@
     "clarifai": "^2.4.0",
     "colors": "^1.1.2",
     "eslint-config-hackreactor": "git://github.com/hackreactor-labs/eslint-config-hackreactor",
+    "firstline": "^2.0.2",
     "mocha": "^2.2.5",
     "nock": "^2.15.0",
-    "request": "^2.61.0"
+    "request": "^2.61.0",
+    "string-first-line": "^1.0.2"
   }
 }
